@@ -1,0 +1,235 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: #1e1e1e;
+  position: relative;
+}
+.sidebar {
+  position: absolute;
+  width: 333px;
+  height: 1075px;
+  left: 21px;
+  top: 19px;
+  background: #262626;
+  border-radius: 50px;
+}
+.rightbar {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 1323px;
+  height: 588px;
+  left: 374px;
+  top: 19px;
+
+  background: #262626;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50px;
+}
+.rightbottom {
+  box-sizing: border-box;
+  position: absolute;
+  width: 1323px;
+  height: 464px;
+  left: 371px;
+  top: 636px;
+  background: #262626;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 50px;
+}
+.img {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 222px;
+  height: 222px;
+  left: 56px;
+  top: 56px;
+
+  background: url(profilelogo.png);
+  border: 2px solid #333333;
+  border-radius: 1000px;
+}
+.nameofprofile {
+  position: absolute;
+  width: 132px;
+  height: 36px;
+  left: 100px;
+  top: 302px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+.billion {
+  position: absolute;
+  width: 87px;
+  height: 27px;
+  left: 123px;
+  top: 348px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+  color: rgba(255, 255, 255, 0.5);
+}
+.buttons1 {
+  position: absolute;
+  width: 298px;
+  height: 61px;
+  left: 17px;
+  top: 411px;
+
+  background: #111111;
+  border-radius: 30px;
+}
+.buttons2 {
+  position: absolute;
+  width: 298px;
+  height: 61px;
+  left: 17px;
+  top: 492px;
+
+  background: #111111;
+  border-radius: 30px;
+}
+.buttons3 {
+  position: absolute;
+  width: 298px;
+  height: 61px;
+  left: 17px;
+  top: 580px;
+
+  background: #111111;
+  border-radius: 30px;
+}
+.buttontext1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+
+  color: rgba(255, 255, 255, 0.5);
+}
+.buttontext2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+
+  color: rgba(255, 255, 255, 0.5);
+}
+.buttontext3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+
+  color: rgba(255, 255, 255, 0.5);
+}
+.rightbarhead {
+  position: absolute;
+  width: 231px;
+  height: 36px;
+  left: 53px;
+  top: 56px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+.rightbarcontent {
+  position: absolute;
+  width: 472px;
+  height: 430px;
+  left: 53px;
+  top: 127px;
+  /* border: 2px solid white; */
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+
+  color: rgba(255, 255, 255, 0.5);
+}
+.rightbarcontentlink {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+
+  color: rgba(255, 255, 255, 0.5);
+}
+.avengerimage {
+  position: absolute;
+  width: 722px;
+  height: 430px;
+  left: 556px;
+  top: 127px;
+
+  background: url(Avenger.png);
+  border-radius: 20px;
+}
+.rightbottomtext {
+  position: absolute;
+  width: 199px;
+  height: 43px;
+  left: 56px;
+  top: 37px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+
+  color: #ffffff;
+}
+.tabledesign {
+  box-sizing: border-box;
+  position: absolute;
+  width: 1227px;
+  height: 331px;
+  left: 62px;
+  top: 98px;
+
+  padding: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 30px;
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: rgba(255, 255, 255, 0.5);
+}
+@media all and (max-width:640px){
+    
+}
